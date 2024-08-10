@@ -54,7 +54,7 @@
       "required": false
      },
     "TOKEN": {
-      "description": "MTI1MDkyMjU4MTMxNDI0NDYzOQ.G5pHec.FkRo9y5BI-0KCxhzUWbpzPI8GcRPD-WXOL6fZI",
+      "description": "",
       "required": true
     }
   }
